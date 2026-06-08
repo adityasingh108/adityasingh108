@@ -1,118 +1,72 @@
-# Hi there 
-# I'm Aditya Kumar Singh
+# Hi, I'm Aditya Kumar Singh 👋
 
 ## Senior Security Analyst | Offensive Security Researcher | Penetration Tester
 
-Passionate cybersecurity professional focused on offensive security, vulnerability research, exploit development, and secure application testing. Experienced in Web, API, Mobile, Cloud, and Infrastructure Security Assessments with hands-on expertise in identifying and mitigating critical security vulnerabilities.
+Cybersecurity professional with experience in Web, API, Mobile, Cloud, and Infrastructure Security Assessments. I focus on vulnerability research, offensive security, security automation, exploit validation, and helping organizations improve their security posture.
 
 ---
 
-#  About Me
+## 🚀 About Me
 
--  Currently working as a Senior Security Analyst at TCS
--  Specialized in Web Application, API, Android, iOS, and Cloud Security Testing
--  Currently learning DevSecOps, Advanced Exploit Development, and Cloud Security
--  Looking to collaborate on Security Research, Red Teaming, and Open Source Security Projects
--  Ask me about:
-  - Web Application Security
-  - API Security Testing
-  - Mobile Application Security
-  - Exploit Development
-  - Python Security Automation
-  - VAPT & Security Research
--  Interested in Linux Internals, Offensive Security Tooling, and Kernel Exploit Research
--  Reach me at: `adityasingh78085@gmail.com`
+- 🔐 Senior Security Analyst at Tata Consultancy Services (TCS)
+- 🏆 Winner / Top Performer – TCS HackQuest Season 7
+- 🎯 AIR 100 among 20,000+ participants in TCS HackQuest Season 7
+- 🌐 Specialized in Web Application, API, Android, iOS, and Cloud Security Testing
+- 🧪 Passionate about Vulnerability Research and Offensive Security
+- 🤝 Open to collaborating on Security Research and Open Source Security Projects
+- 🐧 Strong interest in Linux Internals, Exploit Development, and Security Automation
 
 ---
 
-#  Work Experience
+## 💼 Professional Experience
 
-## Senior Security Analyst
-### Tata Consultancy Services (TCS) — Bhubaneswar, India
- November 2023 – Present
+### Senior Security Analyst
+**Tata Consultancy Services (TCS)** | Nov 2023 – Present
 
-- Performed Vulnerability Assessment & Penetration Testing (VAPT) across:
-  - Web Applications
-  - APIs
-  - Android/iOS Applications
-  - AWS Cloud Infrastructure
-  - Network Infrastructure
-- Identified and validated:
-  - OWASP Top 10 vulnerabilities
-  - OWASP API Security Top 10 issues
-  - Mobile application security flaws
-- Conducted cloud security assessments on:
-  - AWS IAM
-  - EC2
-  - S3
-  - VPC
-- Worked with tools including:
-  - Burp Suite
-  - Metasploit
-  - Nmap
-  - Nessus
-  - OpenVAS
-  - MobSF
-  - Frida
-  - Drozer
-  - SQLMap
-- Prepared detailed security reports with:
-  - Proof of Concepts (PoCs)
-  - Risk Ratings
-  - Remediation Guidance
-- Assisted development and infrastructure teams in vulnerability remediation and secure deployment practices
+- Conducting Vulnerability Assessment and Penetration Testing (VAPT)
+- Assessing Web Applications, APIs, Mobile Applications, Networks, and AWS Infrastructure
+- Identifying and validating OWASP Top 10 and OWASP API Security Top 10 vulnerabilities
+- Performing cloud security reviews across IAM, EC2, S3, and VPC environments
+- Delivering detailed security reports with risk ratings, proof-of-concepts, and remediation guidance
+- Supporting development and infrastructure teams during remediation and verification activities
+
+### Software Developer Intern
+**Sarva Suvidha Pvt. Ltd.** | Sep 2022 – Nov 2022
+
+- Developed Django-based applications
+- Worked with AWS services and deployment workflows
+- Integrated data processing and visualization libraries
+- Assisted with CI/CD implementation and application deployment
 
 ---
 
-## Software Developer Intern
-### Sarva Suvidha Pvt Ltd
- September 2022 – November 2022
+## 🛡️ Security Domains
 
-- Developed scalable Django-based web applications
-- Integrated libraries including:
-  - Matplotlib
-  - NumPy
-  - Pandas
-- Worked on AWS deployment using:
-  - EC2
-  - S3
-- Configured CI/CD pipelines using Jenkins
-- Improved application performance and deployment workflows
-
----
-
-#  Technical Skills
-
-##  Security
-
-- Vulnerability Assessment & Penetration Testing (VAPT)
 - Web Application Security
 - API Security Testing
-- Mobile Application Security (Android/iOS)
+- Mobile Application Security (Android & iOS)
 - Cloud Security (AWS)
 - Network Security
 - Secure Code Review
-- Secure Software Development
-- Exploit Research
-- Privilege Escalation Research
+- Threat Modeling
+- Vulnerability Research
+- Security Automation
+- Exploit Validation
 
 ---
 
-##  Programming & Scripting
+## ⚙️ Technical Skills
 
+### Programming & Scripting
 - Python
-- Bash/Shell Scripting
+- Bash
 - JavaScript
 - Java
 - C
 - C++
 - SQL
-- Ruby
 
----
-
-##  Security Tools & Technologies
-
+### Security Tools
 - Burp Suite
 - Metasploit Framework
 - Nmap
@@ -123,43 +77,47 @@ Passionate cybersecurity professional focused on offensive security, vulnerabili
 - MobSF
 - Frida
 - Drozer
-- ADB
 - Postman
-- AWS (IAM, EC2, S3, VPC)
+- Docker
+- Git & GitHub
+- Linux / Kali Linux
+
+### Cloud & Platforms
+- AWS IAM
+- AWS EC2
+- AWS S3
+- AWS VPC
 - Splunk
 - ELK Stack
-- Git & GitHub
-- Docker
-- Linux
-- Kali Linux
 
 ---
 
-#  Currently Exploring
+## 📚 Currently Learning
 
 - DevSecOps
-- Advanced Linux Exploitation
-- Kernel Exploit Development
-- Malware Analysis
-- Detection Engineering
+- Advanced Exploit Development
 - Cloud Security Engineering
+- Detection Engineering
+- Malware Analysis
+- Advanced Linux Security
 
 ---
 
-#  Achievements
+## 🏅 Highlights & Achievements
 
--  Winner / Top Performer — TCS HackQuest Season 7
--  AIR 100 among 20,000+ participants in TCS HackQuest Season 7
--  Solved 1200+ DSA problems on GeeksforGeeks and LeetCode
--  Ranked under Top 50 in GeeksforGeeks Weekly Coding Contests
--  Identified and helped remediate multiple High and Critical severity vulnerabilities across enterprise applications and infrastructure
-
----
-# 🔗 Connect With Me
-
--  Email: adityasingh78085@gmail.com
--  LinkedIn: https://www.linkedin.com/in/aditya-kumar-singh-9ab9b81aa
+- 🏆 Winner / Top Performer – TCS HackQuest Season 7
+- 🎖️ AIR 100 among 20,000+ participants in TCS HackQuest Season 7
+- 💻 Solved 1200+ DSA problems across coding platforms
+- 📈 Ranked among top performers in competitive programming contests
+- 🔍 Identified and helped remediate High and Critical severity vulnerabilities in enterprise environments
 
 ---
 
-> "Security is not a product, but a process."
+## 📫 Connect With Me
+
+- Email: adityasingh78085@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aditya-kumar-singh-9ab9b81aa
+
+---
+
+> Security is a continuous process of learning, testing, and improving.
